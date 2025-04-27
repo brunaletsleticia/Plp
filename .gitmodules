@@ -1,0 +1,6 @@
+[submodule "haskell/projetoHaskell"]
+	path = haskell/projetoHaskell
+	url = https://github.com/eyshilaburiti/ExterminadorDoFuturo
+[submodule "prolog/projetoProlog"]
+	path = prolog/projetoProlog
+	url = https://github.com/StefaneLohanna/ExterminadorDoFuturo-prolog.git
